@@ -1,0 +1,8 @@
+= Game of Life
+
+Game of Life is a Mac OS X implementation of Conway's famous Game of Life.
+More information can be found here: http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
+Author:: Cody Brimhall (mailto:brimhall@somuchwit.com)
+Copyright:: Copyright (c) 2008-2011 Cody Brimhall
+License:: Distributed under the terms of the MIT License
